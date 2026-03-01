@@ -1,3 +1,3 @@
-## React Interview Projects
+## React Projects
 
-- Kanban Board
+- [Kanban Board](https://ps-react-projects.vercel.app/kanban-board)
